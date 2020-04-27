@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Gupter&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Baskervville&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+
+.container-fluid{
+	background-image: url(../img/Weather.png); 
+	background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+
+.GymClass{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: grey;
+	font-weight: 100;
+	font-size: 24px;
+}
+
+span{
+    font-family: 'Gupter', serif;
+    color: #ffffff;
+}
+
+#square{
+    width: 281px;
+    height: 130px;
+    background: #80b7b3;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    z-index: 1000;
+    margin-top: -50px;
+	margin-left: 230px;
+	height: 130px;
+}
+
+.display-1{
+	color: #e9ebec;
+	text-transform: uppercase;
+	font-size: 205px;
+	letter-spacing: 20px;
+	margin-top: -50px;
+}
+
+.UnderPotic{
+	text-transform: uppercase;
+	color: grey;
+	letter-spacing: 5px;
+}
+
+.h4{
+	color: grey;
+	font-family: 'Baskervville', serif;
+}
+
+.btn{
+	background: #80b7b3;
+	width: 220px;
+	border-radius: 35px 35px 35px 35px;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+.btn:hover{
+	color: white;
+}
+
+.imgMan{
+	box-shadow: 0 0 20px rgba(232, 232, 232, 1);
+	border: 2px solid  #ffffff;
+}
+
+img{
+	box-shadow: 20 20 20px rgba(232, 232, 232, 1);
+}
+
+.KeepMyCoo{
+	font-family: 'PT Serif', serif;
+}
+
+.GhostBoy{
+	font-family: 'PT Serif', serif;
+	box-shadow: 0 0 0 3px rgba(232, 232, 232, 1);
+	border: 0;
+	background-color: white;
+	width: 120%;
+}
+
+h5{
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: grey;
+	margin-left: 15px;
+}
+
+.formers{
+	background-color: #3b4e54;
+	width: 1000px;
+	height: 350px;
+	text-align: center;
+	opacity: 0.95;
+}
+
+h4{
+	color: #d0d4d5;
+}
+
+.contact{
+	background-image: url(../img/Forest.png); 
+	background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.form-control{
+	background-color: #2e3e43;
+	border-radius: 50px;
+	height: 55px;
+	width: 26s0px;
+}
+
+.btn-link{
+	height: 45px;
+	width: 250px;
+}
+
+.h5{
+	color: white;
+	letter-spacing: 2px;
+	line-height: 35px; 
+}
+
+.quote{
+	margin-top: 300px;
+}
+
+.quote1{
+	width: 500px;
+	height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
